@@ -5,7 +5,7 @@ This Chrome extension enables users to virtually try on clothing items from any 
 
 ## Demo
 
-Check out this video demonstration of the Virtual Try-On Chrome Extension:
+Check out this video demonstration of the Try On Ai Chrome Extension:
 
 https://youtu.be/3xpLw5aAkXo
 
@@ -41,11 +41,11 @@ Before using the extension, you need to set up the following:
 2. Navigate to the [API keys page](https://platform.openai.com/account/api-keys)
 3. Click "Create new secret key" and copy the generated key
 
-### To retain images outside of demo  
+### To retain images outside of demo (not required to try)   
 
-1. Go to simplefileupload.com (paid) and sign up 
-2. Log in 
-3. Get your key 
+1. Go to [Simple File Upload](https://simplefileupload.com) (paid) and sign up for an account
+2. Get your key from the "Quick Start" page
+3. Enter your key in the "Settings" section of the chrome extension
 
 ## Usage
 

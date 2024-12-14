@@ -1,6 +1,7 @@
 # Virtual Try-On Chrome Extension
 
 This Chrome extension enables users to virtually try on clothing items from any e-commerce website using AI-powered image processing.
+![CleanShot 2024-12-13 at 19 51 07@2x](https://github.com/user-attachments/assets/85743d6d-51d1-4985-9819-f33006c77d87)
 
 ## Demo
 

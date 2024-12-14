@@ -62,7 +62,7 @@ Before using the extension, you need to set up the following:
 
 ## Credits
 
-- https://github.com/shyjal
+- https://github.com/shyjal for original idea and code 
 
 
 ## License
